@@ -2,8 +2,14 @@
     "promos": [
         {
 	    "id": 1,
-        "type": "dog",
-        "name": "Walter"
+        "user": [{
+            "name": "Niels G.",
+            "profile": "#promojager",
+            "avatar": "https://i.imgur.com/VQv2Ib5.jpg",
+            "following": true
+        }],
+        "image": "https://loremflickr.com/320/240?random=2",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod"
         },
         {
 		"id": 2,
