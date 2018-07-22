@@ -1,8 +1,8 @@
 {
-"total": 6,
 "promos": [
 {
 "id": 1,
+"total": 6,
 "author": {
 "name": "Pieter G.",
 "profile": "#promojager",
@@ -17,7 +17,7 @@
 "id": "1",
 "name": "Aliexpress",
 "icon": "https://deltafonts.com/wp-content/uploads/ALI-EXPRESS-LOGO.png",
-"following": true
+"following": true,
 },
 "merk": {
 "id": "32",
@@ -34,6 +34,7 @@
 },
 {
 "id": 2,
+"total": 6,
 "author": {
 "name": "Joseph S.",
 "profile": "#Joseph",
@@ -65,6 +66,7 @@
 },
 {
 "id": 3,
+"total": 6,
 "author": {
 "name": "Jean D.",
 "profile": "#Jean",
@@ -96,6 +98,7 @@
 },
 {
 "id": 4,
+"total": 6,
 "author": {
 "name": "Joseph S.",
 "profile": "#Joseph",
@@ -127,6 +130,7 @@
 },
 {
 "id": 5,
+"total": 6,
 "author": {
 "name": "Joseph S.",
 "profile": "#Joseph",
@@ -158,6 +162,7 @@
 },
 {
 "id": 6,
+"total": 6,
 "author": {
 "name": "Joseph S.",
 "profile": "#Joseph",
