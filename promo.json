@@ -1,0 +1,12 @@
+{
+    "promos": [
+        {
+        "type": "dog",
+        "name": "Walter"
+        },
+        {
+        "type": "dog",
+        "name": "Walter"
+        }
+    ] 
+}
