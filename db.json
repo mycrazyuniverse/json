@@ -1,15 +1,16 @@
 {
     "promos": [
         {
-	    "id": 1,
-        "user": [{
-            "name": "Niels G.",
-            "profile": "#promojager",
-            "avatar": "https://i.imgur.com/VQv2Ib5.jpg",
-            "following": true
-        }],
-        "image": "https://loremflickr.com/320/240?random=2",
-        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod"
+            "id": 1,
+            "user": [{
+                "name": "Niels G.",
+                "profile": "#promojager",
+                "avatar": "https://i.imgur.com/VQv2Ib5.jpg",
+                "following": true
+            }],
+            "image": "https://loremflickr.com/320/240?random=2",
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod",
+            "likes": "23"
         },
         {
 		"id": 2,
