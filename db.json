@@ -33,7 +33,7 @@
 },
 {
 "id": 2,
-"user": [{
+"author": [{
 "name": "Joseph S.",
 "profile": "#Joseph",
 "avatar": "https://www.akronchildrens.org/images-general/49798/image/large/joseph-stoker-do.png",
@@ -64,7 +64,7 @@
 },
 {
 "id": 3,
-"user": [{
+"author": [{
 "name": "Jean D.",
 "profile": "#Jean",
 "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Jean_Dujardin_C%C3%A9sars_2017_%28cropped%29.jpg/220px-Jean_Dujardin_C%C3%A9sars_2017_%28cropped%29.jpg",
@@ -95,7 +95,7 @@
 },
 {
 "id": 4,
-"user": [{
+"author": [{
 "name": "Joseph S.",
 "profile": "#Joseph",
 "avatar": "https://www.akronchildrens.org/images-general/49798/image/large/joseph-stoker-do.png",
@@ -126,7 +126,7 @@
 },
 {
 "id": 5,
-"user": [{
+"author": [{
 "name": "Joseph S.",
 "profile": "#Joseph",
 "avatar": "https://www.akronchildrens.org/images-general/49798/image/large/joseph-stoker-do.png",
@@ -157,7 +157,7 @@
 },
 {
 "id": 6,
-"user": [{
+"author": [{
 "name": "Joseph S.",
 "profile": "#Joseph",
 "avatar": "https://www.akronchildrens.org/images-general/49798/image/large/joseph-stoker-do.png",
