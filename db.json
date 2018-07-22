@@ -15,19 +15,19 @@
             "shop": {
                 "id": "1",
                 "name": "amazon",
-                "image": "http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_fr_col_RGB_tn.png",
+                "logo": "http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_fr_col_RGB_tn.png",
                 "following": true
             },
             "merk": {
                 "id": "1",
                 "name": "amazon",
-                "image": "http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_fr_col_RGB_tn.png",
+                "logo": "http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_fr_col_RGB_tn.png",
                 "following": true
             },
             "rubriek": {
                 "id": "1",
                 "name": "amazon",
-                "image": "http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_fr_col_RGB_tn.png",
+                "logo": "http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_fr_col_RGB_tn.png",
                 "following": true
             }
         },
