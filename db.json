@@ -15,19 +15,19 @@
             "shop": {
                 "id": "1",
                 "name": "Aliexpress",
-                "icon": "http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_fr_col_RGB_tn.png",
+                "icon": "https://deltafonts.com/wp-content/uploads/ALI-EXPRESS-LOGO.png",
                 "following": true
             },
             "merk": {
                 "id": "32",
-                "name": "amazon",
-                "icon": "http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_fr_col_RGB_tn.png",
-                "following": true
+                "name": "sannce",
+                "icon": "https://www.savings.com/images/savings/logo/4489046.png?width=200&height=200g",
+                "following": false
             },
             "rubriek": {
                 "id": "309",
-                "name": "amazon",
-                "icon": "http://media.corporate-ir.net/media_files/IROL/25/251199/Logo2017/Amazon/amazon_fr_col_RGB_tn.png",
+                "name": "freestuff",
+                "icon": "",
                 "following": true
             }
         },
