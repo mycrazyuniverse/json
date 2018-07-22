@@ -1,12 +1,25 @@
 {
     "promos": [
         {
+	    "id": 1,
         "type": "dog",
         "name": "Walter"
         },
         {
+		"id": 2,
+        "type": "dog",
+        "name": "Walter"
+        },
+        {
+		"id": 3,
         "type": "dog",
         "name": "Walter"
         }
-    ] 
+        ,
+        {
+		"id": 4,
+        "type": "dog",
+        "name": "Walter"
+        }
+    ]
 }
