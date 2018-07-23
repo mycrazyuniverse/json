@@ -2,7 +2,6 @@
 "promos": [
 {
 "id": 1,
-"total": 6,
 "author": {
 "name": "Pieter G.",
 "profile": "#promojager",
@@ -34,7 +33,6 @@
 },
 {
 "id": 2,
-"total": 6,
 "author": {
 "name": "Joseph S.",
 "profile": "#Joseph",
@@ -66,7 +64,6 @@
 },
 {
 "id": 3,
-"total": 6,
 "author": {
 "name": "Jean D.",
 "profile": "#Jean",
@@ -98,7 +95,6 @@
 },
 {
 "id": 4,
-"total": 6,
 "author": {
 "name": "Joseph S.",
 "profile": "#Joseph",
@@ -130,7 +126,6 @@
 },
 {
 "id": 5,
-"total": 6,
 "author": {
 "name": "Joseph S.",
 "profile": "#Joseph",
@@ -162,7 +157,6 @@
 },
 {
 "id": 6,
-"total": 6,
 "author": {
 "name": "Joseph S.",
 "profile": "#Joseph",
